@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+main{
+    background-color: #74959A;
+    h2 {
+    text-align: center;
+
+    
+}
+}
+ 
+.card{
+    text-align: center;
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
+
+* {
+  font-family: Open Sans;
+}
+
+section {
+  width: 100%;
+  display: inline-block;
+  background: #333;
+  height: 50vh;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: underline;
+}
